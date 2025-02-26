@@ -75,7 +75,7 @@ const Index = () => {
                 className="rounded-lg shadow-md w-full h-48 object-cover"
               />
               <img
-                src="https://th.bing.com/th/id/OIP.Rsba6rcoPiySv_Aiu2uihQHaE7?w=242&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+                src="http://amfpk.com/images/test/x4.png"
                 alt="Delivery Team"
                 className="rounded-lg shadow-md w-full h-48 object-cover"
               />

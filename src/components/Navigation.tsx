@@ -20,7 +20,7 @@ const Navigation = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex-shrink-0 flex items-center">
-            <span><img src="https://th.bing.com/th/id/OIP.Rsba6rcoPiySv_Aiu2uihQHaE7?w=242&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="60px" height="60px" alt="abcd" /></span>
+            <span><img src="http://amfpk.com/images/test/x4.png" width="60px" height="60px" alt="abcd" /></span>
             <span className="text-xl font-bold text-danger"> ANDY MOVEE</span>
           </div>
 
